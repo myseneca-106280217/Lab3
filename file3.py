@@ -10,3 +10,10 @@ def put_a_name_to_file():
     
 if __name__ == "__main__":
     put_a_name_to_file()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
+
